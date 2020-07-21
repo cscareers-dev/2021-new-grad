@@ -10,7 +10,7 @@ We provide our community members with **company-specific interview questions**, 
 
 ## Job Listings
 
-
-| Name  |  Location |  Notes |
-|---|---|---|
-|[Jane Street Capital](https://www.janestreet.com/join-jane-street/position/4743431002/)| New York | SWE New Grad |
+| Name                                                                                    | Location      | Notes        |
+| --------------------------------------------------------------------------------------- | ------------- | ------------ |
+| [Jane Street Capital](https://www.janestreet.com/join-jane-street/position/4743431002/) | New York      | SWE New Grad |
+| [Asana](https://boards.greenhouse.io/asana/jobs/2191025)                                | San Francisco | SWE New Grad |
