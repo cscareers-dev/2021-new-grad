@@ -14,3 +14,4 @@ We provide our community members with **company-specific interview questions**, 
 | --------------------------------------------------------------------------------------- | ------------- | ------------ |
 | [Jane Street Capital](https://www.janestreet.com/join-jane-street/position/4743431002/) | New York      | SWE New Grad |
 | [Asana](https://boards.greenhouse.io/asana/jobs/2191025)                                | San Francisco | SWE New Grad |
+| [Paypal](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-CA/Software-Engineer---University-Graduate_R0057736?Codes=W-LINKEDIN)                                | New York | SWE New Grad |
