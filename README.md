@@ -3,8 +3,6 @@
 # !! ARCHIVED !!
 This repository is no longer being actively maintained due to the reshift of priorities. We are offering a mega 2021 tracking spreadsheet that includes companies that have open roles for internship/new-grads. You can view this spreadsheet at [cscareers.dev/process-tracking](https://cscareers.dev/process-tracking)
 
-Tracking Summer 2021 New Grad Applications for SWE/PM/ML/Data Science related roles.
-
 ## cscareers.dev Discord Server
 
 Before applying and interviewing with these companies, make sure you check out the [cscareers.dev Discord server](https://cscareers.dev/discord).
